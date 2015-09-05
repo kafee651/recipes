@@ -1,0 +1,14 @@
+#This document contain information about how to cook tea.
+
+Material required:
+1.Tea leaf.
+2.Water.
+3.Milk.
+4.Sugar.
+
+Procedure:
+step1.Boil water with leaf while you find brown color.
+step2.Mix sugar as per your test.
+step3.Add milk as per your test.
+step4.Wait for your tea to become deep brownies in color.
+step5.Tea is ready to sirve
